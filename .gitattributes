@@ -1,0 +1,3 @@
+# Notebook output cells dominate the byte count.
+# Keeps it out of GitHub language statistics.
+*.ipynb linguist-detectable=false
